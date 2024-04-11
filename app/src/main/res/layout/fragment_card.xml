@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Front side of the card -->
+    <TextView
+        android:id="@+id/frontTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Front Text"
+        android:gravity="center"
+        android:textSize="24sp" />
+
+    <!-- Back side of the card -->
+    <TextView
+        android:id="@+id/backTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Back Text"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:visibility="gone" />
+
+</FrameLayout>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_card_pack.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_card_pack.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afinal.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.afinal.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_results.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_list_item_card_pack.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\list_item_card_pack.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_card_item.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_add_new_card.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_add_new_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_item_card.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_fragment_card.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\fragment_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_activity_add_new_pack.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\activity_add_new_pack.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\layout_main.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jan Váňa\\.gradle\\daemon\\8.4\\com.example.afinal.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    }
+]
